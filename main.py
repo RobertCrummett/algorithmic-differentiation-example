@@ -1,4 +1,4 @@
-import automaticdifferentiation as ad
+import algorithmicdifferentiation as ad
 
 from sklearn import datasets
 from sklearn.linear_model import LogisticRegression
